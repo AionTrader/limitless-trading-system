@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Limitless Logo" width="200"/>
+</p>
 # Project Limitless — Human-AI Trading System (HITL-first)
 
 **Limitless** is a Human-in-the-Loop (HITL) trading assistant that merges market data, news sentiment, and behavioral analysis to enhance trader precision and speed.  
